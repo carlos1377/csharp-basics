@@ -1,0 +1,15 @@
+C:\Users\TI01\Desktop\facul\exer_seq6\bin\Debug\net7.0\exer_seq6.exe
+C:\Users\TI01\Desktop\facul\exer_seq6\bin\Debug\net7.0\exer_seq6.deps.json
+C:\Users\TI01\Desktop\facul\exer_seq6\bin\Debug\net7.0\exer_seq6.runtimeconfig.json
+C:\Users\TI01\Desktop\facul\exer_seq6\bin\Debug\net7.0\exer_seq6.dll
+C:\Users\TI01\Desktop\facul\exer_seq6\bin\Debug\net7.0\exer_seq6.pdb
+C:\Users\TI01\Desktop\facul\exer_seq6\obj\Debug\net7.0\exer_seq6.csproj.AssemblyReference.cache
+C:\Users\TI01\Desktop\facul\exer_seq6\obj\Debug\net7.0\exer_seq6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI01\Desktop\facul\exer_seq6\obj\Debug\net7.0\exer_seq6.AssemblyInfoInputs.cache
+C:\Users\TI01\Desktop\facul\exer_seq6\obj\Debug\net7.0\exer_seq6.AssemblyInfo.cs
+C:\Users\TI01\Desktop\facul\exer_seq6\obj\Debug\net7.0\exer_seq6.csproj.CoreCompileInputs.cache
+C:\Users\TI01\Desktop\facul\exer_seq6\obj\Debug\net7.0\exer_seq6.dll
+C:\Users\TI01\Desktop\facul\exer_seq6\obj\Debug\net7.0\refint\exer_seq6.dll
+C:\Users\TI01\Desktop\facul\exer_seq6\obj\Debug\net7.0\exer_seq6.pdb
+C:\Users\TI01\Desktop\facul\exer_seq6\obj\Debug\net7.0\exer_seq6.genruntimeconfig.cache
+C:\Users\TI01\Desktop\facul\exer_seq6\obj\Debug\net7.0\ref\exer_seq6.dll
