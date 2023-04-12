@@ -1,0 +1,15 @@
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\bin\Debug\net7.0\exer_cond9.exe
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\bin\Debug\net7.0\exer_cond9.deps.json
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\bin\Debug\net7.0\exer_cond9.runtimeconfig.json
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\bin\Debug\net7.0\exer_cond9.dll
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\bin\Debug\net7.0\exer_cond9.pdb
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\obj\Debug\net7.0\exer_cond9.csproj.AssemblyReference.cache
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\obj\Debug\net7.0\exer_cond9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\obj\Debug\net7.0\exer_cond9.AssemblyInfoInputs.cache
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\obj\Debug\net7.0\exer_cond9.AssemblyInfo.cs
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\obj\Debug\net7.0\exer_cond9.csproj.CoreCompileInputs.cache
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\obj\Debug\net7.0\exer_cond9.dll
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\obj\Debug\net7.0\refint\exer_cond9.dll
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\obj\Debug\net7.0\exer_cond9.pdb
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\obj\Debug\net7.0\exer_cond9.genruntimeconfig.cache
+C:\Users\TI01\Desktop\facul\exer_seq7\exer_cond9\obj\Debug\net7.0\ref\exer_cond9.dll
