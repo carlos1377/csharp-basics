@@ -1,0 +1,14 @@
+﻿int um, cinco, dez, cinquenta, cem;
+Console.WriteLine("Digite o número de cédulas do seu monte de dinheiro: ");
+Console.WriteLine("Moedas de 1 real: ");
+um = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Notas de 5 reais: ");
+cinco = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Notas de 10 reais: ");
+dez = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Notas de 50 reais: ");
+cinquenta = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Notas de 100 reais: ");
+cem = Convert.ToInt32(Console.ReadLine());
+int total = um + (cinco * 5) + (dez * 10) + (cinquenta * 50) + (cem * 100);
+Console.WriteLine($"Seu dinheiro total é igual a {total}.");
